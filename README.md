@@ -9,4 +9,4 @@ Create a Youtube clone following the best approaches. The site should follow bes
 
 #### Cloning the project
 - Clone the repo
- $ git clone https://github.com/SolomonKitonyi/Youtube-clone
+ `$ git clone https://github.com/SolomonKitonyi/Youtube-clone`

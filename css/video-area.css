@@ -6,9 +6,9 @@
 .video-item {
     border: 1px solid black;
     border-radius: 0.5rem;
-    padding: 5px;
+    padding: 0.3rem;
 }
 .video-img {
-    width: 300px;
-    height: 120px;
+    width: 18.75rem;
+    height: 7.5rem;
 }

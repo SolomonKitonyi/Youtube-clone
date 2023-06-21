@@ -1,0 +1,14 @@
+.video-player {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 1rem;
+}
+.video-items {
+    width: 100%;
+}
+.video-item {
+    width: 100%;
+}
+img {
+    width: 26rem;
+}

@@ -1,0 +1,14 @@
+.video-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.video-item {
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    padding: 0.3rem;
+}
+.video-img {
+    width: 18.75rem;
+    height: 7.5rem;
+}

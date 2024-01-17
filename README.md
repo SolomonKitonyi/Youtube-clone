@@ -23,4 +23,4 @@ This project is a YouTube clone created using HTML and CSS, with a primary focus
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/youtube-clone.git
+   git clone https://github.com/SolomonKitonyi/youtube-clone.git
